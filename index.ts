@@ -35,7 +35,7 @@ const server = new Hapi.Server({
       plugin: HapiSwagger,
       options: {
         info: {
-          title: 'Node.js with MongoDB Example - Erick Wendel',
+          title: 'Node.js with MongoDB Example - Edney Fillipi',
           version: 'v1.0',
         },
       },
